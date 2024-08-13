@@ -1,0 +1,10 @@
+Sno	Name		age
+			
+1	Indraneel		19
+2	Ram		21
+3	Arun		8
+4	Arjun		22
+5	Kiran		16
+6	Vamsi		35
+7	Chandu		28
+8	Varma		30
